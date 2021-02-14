@@ -1,5 +1,5 @@
 # Circularly-LinkedList
-Some circularly linked list algorithms
+Java implementation of Circularly Linked Lists & some practice algorithms
 
 ## About
 
